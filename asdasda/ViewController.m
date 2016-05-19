@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"123");
+    [self test];
 }
 
+- (void)test{
+    NSLog(@"ssss");
+}
 @end
